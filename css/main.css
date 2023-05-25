@@ -7,3 +7,8 @@ body {
 body h1 {
 	margin-bottom: 0;
 }
+
+body header nav a {
+	color: navy;
+	text-decoration: none;
+}
