@@ -1,2 +1,3 @@
-- .. main content
-- header and menu
+- x main content
+- x header and menu
+- .. make hyperlinks
