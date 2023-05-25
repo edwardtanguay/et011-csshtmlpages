@@ -1,0 +1,9 @@
+body {
+	background-color: rgb(175, 175, 216);
+	font-family: verdana, arial, helvetica;
+	padding: 0 0 0 1rem;
+}
+
+body h1 {
+	margin-bottom: 0;
+}
