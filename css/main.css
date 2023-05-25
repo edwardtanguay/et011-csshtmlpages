@@ -12,3 +12,8 @@ body header nav a {
 	color: navy;
 	text-decoration: none;
 }
+
+body header nav a.active {
+	color: red;
+	text-decoration: none;
+}
